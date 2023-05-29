@@ -1,2 +1,2 @@
 Developed an interactive and engaging online discussion forum that allows users to participate in discussions, share knowledge, and collaborate with others on various topics of interest. The forum provides a platform for users to ask questions, provide answers, share insights, and engage in meaningful conversations with a community of like-minded individuals.
-. TECHS USED: ASP.NET MVC, Entity Framework Core, SQL Server, Web Form, Bootstrap4
+-> TECHS USED: ASP.NET MVC, Entity Framework Core, SQL Server, Web Form, Bootstrap4
